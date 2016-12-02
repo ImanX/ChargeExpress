@@ -1,0 +1,11 @@
+.idea/
+bin/
+build/
+proguard/
+.gradle/
+!app/build/outputs/mapping*
+app/app-release.apk
+app/app.iml
+local.properties
+Android-Application.iml
+gradle/
