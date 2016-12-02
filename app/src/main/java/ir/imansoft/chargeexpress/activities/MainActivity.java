@@ -19,7 +19,7 @@ public class MainActivity extends BaseActivity {
 
         USSDRequest ussdRequest = new USSDRequest();
         ussdRequest.setAmount((long) 1000);
-        ussdRequest.setMobile("093551060052");
+        ussdRequest.setMobile("0935510600fix");
         ussdRequest.setOperatorType(USSDRequest.OperatorType.MCI);
         ussdRequest.setReuestType(USSDRequest.RequestTypes.Topup);
 
